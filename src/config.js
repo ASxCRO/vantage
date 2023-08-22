@@ -1,10 +1,10 @@
 module.exports.SITE = {
-  name: 'TailNext',
+  name: 'Vantage',
 
-  origin: 'https://tailnext.vercel.app',
+  origin: 'https://www.linkedin.com/company/vantageconsult/',
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'TailNext — Your website with Next.js + Tailwind CSS',
-  description: 'TailNext is a free and ready to start template to make your website using Next.js and Tailwind CSS.',
+  title: 'Vantage — Next generation business consulting',
+  description: 'Next generation business consulting which benefits from individual approach in sales, marketing and financial services. P.S We would like to thank everyone for feedback about our web site, it is still in the working. You can contact us here for every information needed, we answer incredibly quickly.',
 };
